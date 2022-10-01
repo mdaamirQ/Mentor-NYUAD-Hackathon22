@@ -10,36 +10,25 @@ Our solution uses quantum annealing to solve Traveling Salesperson Problems to e
 <a href = "https://docs.google.com/presentation/d/1xttMPEMyEMe38c13a5HV48R3ZdQXod-m/edit">Presentation</a>
 
 ## Team Members
-![Team Photo](./../photo/team22.JPG)
+![Team Photo](team22.jpeg)
 
 ## Mentors
-Alexandar Degner,  Media University of Applied Sciences Munich, Germany
-
+Alexandar Degner,  Media University of Applied Sciences Munich, Germany 
+Mohammad Aamir Sohail , University of Michigan, USA 
 Pawel Gora , Quantum AI Foundation, Poland
 
-Mohammad Aamir Sohail , University of Michigan, USA
 ## Hackers
-Chaimae Abouzahir, New York University Abu Dhabi, UAE
-
-Fatima Alzahra Maaroouf, Lebanese American University, Lebanon
-
-Hamza Boudouche, Mohammed 5 University, Morocco
-
-Malak Mansour, New York University Abu Dhabi, UAE
-
-Mariam Alsafi, Khalifa University, UAE
-
-Sashank Neupane, New York University Abu Dhabi, UAE
-
-Tasnim Ahmed, New York University Abu Dhabi, UAE
-
-Teague Tomesh, Princeton University, USA
-
-Tiemar Semere Berhe, Khalifa University, UAE
-
-Yaphet Elias Weldegebriel, Khalifa University, UAE
-
-Ziad Mohamed Hassan, New York University Abu Dhabi, UAE
+Chaimae Abouzahir, New York University Abu Dhabi, UAE 
+Fatima Alzahra Maaroouf, Lebanese American University, Lebanon 
+Hamza Boudouche, Mohammed 5 University, Morocco 
+Malak Mansour, New York University Abu Dhabi, UAE 
+Mariam Alsafi, Khalifa University, UAE 
+Sashank Neupane, New York University Abu Dhabi, UAE 
+Tasnim Ahmed, New York University Abu Dhabi, UAE 
+Teague Tomesh, Princeton University, USA 
+Tiemar Semere Berhe, Khalifa University, UAE 
+Yaphet Elias Weldegebriel, Khalifa University, UAE 
+Ziad Mohamed Hassan, New York University Abu Dhabi, UAE 
 
 ## Problem Description
 
